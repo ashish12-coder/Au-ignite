@@ -1,3 +1,4 @@
 # Au-ignite
 development
-just chill and expolre
+just chill and explore
+
